@@ -20,14 +20,14 @@
 * ~~for batch jobs, focus on knowing [how to use the .NET SDK for creating jobs](https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet), setting them up, and executing.~~
 * ~~the [batch .NET quickstart](https://github.com/Azure-Samples/batch-dotnet-quickstart) is worth reviewing~~
 * skim through [Azure CLI and how to manage batch resources](https://docs.microsoft.com/en-us/azure/batch/batch-cli-get-started)
-* Manage batch jobs by using Batch Service API
+* ~~Manage batch jobs by using Batch Service API~~
   * ~~[Overview of Batch APIs and tools](https://docs.microsoft.com/en-us/azure/batch/batch-apis-tools)~~
   * ~~[Persist task data to Azure Storage with the Batch service API](https://docs.microsoft.com/en-us/azure/batch/batch-task-output-files)~~
   * ~~[Persist job and task data to Azure Storage with the Batch File Conventions library for .NET](https://docs.microsoft.com/en-us/azure/batch/batch-task-output-file-conventions)~~
-* Run a batch job by using Azure CLI, Azure portal, and other tools
-  * [Quickstart: Run your first Batch job with the Azure CLI](https://docs.microsoft.com/en-us/azure/batch/quick-create-cli)
-  * [Quickstart: Run your first Batch job in the Azure portal](https://docs.microsoft.com/en-us/azure/batch/quick-create-portal)
-  * [Quickstart: Run your first Azure Batch job with the .NET API](https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet)
+* ~~Run a batch job by using Azure CLI, Azure portal, and other tools~~
+  * ~~[Quickstart: Run your first Batch job with the Azure CLI](https://docs.microsoft.com/en-us/azure/batch/quick-create-cli)~~
+  * ~~[Quickstart: Run your first Batch job in the Azure portal](https://docs.microsoft.com/en-us/azure/batch/quick-create-portal)~~
+  * ~~[Quickstart: Run your first Azure Batch job with the .NET API](https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet)~~
   * ~~[Quickstart: Run your first Batch job with the Python API](https://docs.microsoft.com/en-us/azure/batch/quick-run-python)~~
 * Write code to run an Azure Batch Services batch job
   * [Persist task data to Azure Storage with the Batch service API](https://docs.microsoft.com/en-us/azure/batch/batch-task-output-files)
