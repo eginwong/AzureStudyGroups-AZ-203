@@ -22,8 +22,8 @@
 * skim through [Azure CLI and how to manage batch resources](https://docs.microsoft.com/en-us/azure/batch/batch-cli-get-started)
 * Manage batch jobs by using Batch Service API
   * ~~[Overview of Batch APIs and tools](https://docs.microsoft.com/en-us/azure/batch/batch-apis-tools)~~
-  * [Persist task data to Azure Storage with the Batch service API](https://docs.microsoft.com/en-us/azure/batch/batch-task-output-files)
-  * [Persist job and task data to Azure Storage with the Batch File Conventions library for .NET](https://docs.microsoft.com/en-us/azure/batch/batch-task-output-file-conventions)
+  * ~~[Persist task data to Azure Storage with the Batch service API](https://docs.microsoft.com/en-us/azure/batch/batch-task-output-files)~~
+  * ~~[Persist job and task data to Azure Storage with the Batch File Conventions library for .NET](https://docs.microsoft.com/en-us/azure/batch/batch-task-output-file-conventions)~~
 * Run a batch job by using Azure CLI, Azure portal, and other tools
   * [Quickstart: Run your first Batch job with the Azure CLI](https://docs.microsoft.com/en-us/azure/batch/quick-create-cli)
   * [Quickstart: Run your first Batch job in the Azure portal](https://docs.microsoft.com/en-us/azure/batch/quick-create-portal)
