@@ -9,12 +9,12 @@
   * ~~[Quickstart: Create a Linux virtual machine in Azure with PowerShell](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-powershell)~~
   * ~~[Quickstart: Create a Linux virtual machine with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli)~~
   * ~~[Create and manage Windows VMs in Azure using C#](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/csharp)~~
-* Create ARM templates 
-  * [Create Azure Resource Manager template](https://docs.microsoft.com/en-us/azure/azure-resource-manager/how-to-create-template)
-  * [Quickstart: Create Azure Resource Manager templates by using Visual Studio Code](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-visual-studio-code?tabs=CLI)
-* Configure Azure Disk Encryption for VMs
-  * [Encrypt virtual disks on a Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/encrypt-disks)
-  * [How to encrypt a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/encrypt-disks)
+* ~~Create ARM templates~~
+  * ~~[Create Azure Resource Manager template](https://docs.microsoft.com/en-us/azure/azure-resource-manager/how-to-create-template)~~
+  * ~~[Quickstart: Create Azure Resource Manager templates by using Visual Studio Code](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-visual-studio-code?tabs=CLI)~~
+* ~~Configure Azure Disk Encryption for VMs~~
+  * ~~[Encrypt virtual disks on a Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/encrypt-disks)~~
+  * ~~[How to encrypt a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/encrypt-disks)~~
 
 ## Implement batch jobs by using Azure Batch Services
 * ~~for batch jobs, focus on knowing [how to use the .NET SDK for creating jobs](https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet), setting them up, and executing.~~
