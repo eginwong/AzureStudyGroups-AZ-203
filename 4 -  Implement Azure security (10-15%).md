@@ -6,15 +6,15 @@
 * ~~Implement authentication by using certificates, forms-based authentication, or tokens~~
     * ~~[What is authentication?](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios)~~
     * ~~[What are authentication methods?](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods)~~
-* Implement multi-factor or Windows authentication by using Azure AD 
+* ~~Implement multi-factor or Windows authentication by using Azure AD~~
     * ~~[Deploy cloud-based Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)~~
     * ~~[Configure Azure Multi-Factor Authentication settings](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings)~~
 * ~~Implement OAuth2 authentication~~
     * ~~[Authorize access to Azure Active Directory web applications using the OAuth 2.0 code grant flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-protocols-oauth-code)~~
-* Implement Managed Service Identity (MSI)/Service Principal authentication 
-    * [What is managed identities for Azure resources?](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
-    * [Use a Windows VM system-assigned managed identity to access Resource Manager](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/tutorial-windows-vm-access-arm)
-    * [Use a Linux VM system-assigned managed identity to access Azure Resource Manager](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/tutorial-linux-vm-access-arm)
+* ~~Implement Managed Service Identity (MSI)/Service Principal authentication~~
+    * ~~[What is managed identities for Azure resources?](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)~~
+    * ~~[Use a Windows VM system-assigned managed identity to access Resource Manager](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/tutorial-windows-vm-access-arm)~~
+    * ~~[Use a Linux VM system-assigned managed identity to access Azure Resource Manager](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/tutorial-linux-vm-access-arm)~~
 
 ## Implement access control 
 * Implement CBAC (Claims-Based Access Control) authorization
