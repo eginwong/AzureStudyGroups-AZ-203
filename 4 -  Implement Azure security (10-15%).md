@@ -17,21 +17,21 @@
     * ~~[Use a Linux VM system-assigned managed identity to access Azure Resource Manager](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/tutorial-linux-vm-access-arm)~~
 
 ## Implement access control 
-* Implement CBAC (Claims-Based Access Control) authorization
+* ~~Implement CBAC (Claims-Based Access Control) authorization~~
     * ~~[Claims-based Authorization](https://docs.microsoft.com/en-us/dotnet/framework/security/claims-based-authorization-using-wif#claims-based-authorization)~~
     * ~~[A Guide to Claims-Based Identity and Access Control, Second Edition - Book Download](https://www.microsoft.com/en-us/download/details.aspx?id=28362); didn't read~~
     * ~~[Azure Identity Management and access control security best practices](https://docs.microsoft.com/en-us/azure/security/azure-security-identity-management-best-practices)~~
-* Implement RBAC (Role-Based Access Control) authorization
-    * [Understand role definitions for Azure resources](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-definitions)
-    * [What is role-based access control (RBAC) for Azure resources?](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
-    * [Tutorial: Grant a user access to Azure resources using RBAC and the Azure portal](https://docs.microsoft.com/en-us/azure/role-based-access-control/quickstart-assign-role-user-portal)
-    * [Tutorial: Grant a user access to Azure resources using RBAC and Azure PowerShell](https://docs.microsoft.com/en-us/azure/role-based-access-control/tutorial-role-assignments-user-powershell)
-    * [Tutorial: Create a custom role for Azure resources using Azure CLI](https://docs.microsoft.com/en-us/azure/role-based-access-control/tutorial-custom-role-cli)
-    * Complete all five tutorials
-* Create shared access signatures
-    * [Using shared access signatures (SAS)](https://docs.microsoft.com/en-us/azure/storage/common/storage-dotnet-shared-access-signature-part-1)
-    * [Shared Access Signatures, Part 2: Create and use a SAS with Blob storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-dotnet-shared-access-signature-part-2)
-    * [Getting Started with Shared Access Signatures (SAS)](https://azure.microsoft.com/en-us/resources/samples/storage-dotnet-sas-getting-started/)
+* ~~Implement RBAC (Role-Based Access Control) authorization~~
+    * ~~[Understand role definitions for Azure resources](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-definitions)~~
+    * ~~[What is role-based access control (RBAC) for Azure resources?](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)~~
+    * ~~[Tutorial: Grant a user access to Azure resources using RBAC and the Azure portal](https://docs.microsoft.com/en-us/azure/role-based-access-control/quickstart-assign-role-user-portal)~~
+    * ~~[Tutorial: Grant a user access to Azure resources using RBAC and Azure PowerShell](https://docs.microsoft.com/en-us/azure/role-based-access-control/tutorial-role-assignments-user-powershell)~~
+    * ~~[Tutorial: Create a custom role for Azure resources using Azure CLI](https://docs.microsoft.com/en-us/azure/role-based-access-control/tutorial-custom-role-cli)~~
+    * ~~Complete all five tutorials~~
+* ~~Create shared access signatures~~
+    * ~~[Using shared access signatures (SAS)](https://docs.microsoft.com/en-us/azure/storage/common/storage-dotnet-shared-access-signature-part-1)~~
+    * ~~[Shared Access Signatures, Part 2: Create and use a SAS with Blob storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-dotnet-shared-access-signature-part-2)~~
+    * ~~[Getting Started with Shared Access Signatures (SAS)](https://azure.microsoft.com/en-us/resources/samples/storage-dotnet-sas-getting-started/)~~
 
 ## Implement secure data solutions 
 * Encrypt and decrypt data at rest and in transit
