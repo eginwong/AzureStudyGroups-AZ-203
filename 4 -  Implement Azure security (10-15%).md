@@ -18,9 +18,9 @@
 
 ## Implement access control 
 * Implement CBAC (Claims-Based Access Control) authorization
-    * [Claims-based Authorization](https://docs.microsoft.com/en-us/dotnet/framework/security/claims-based-authorization-using-wif#claims-based-authorization)
-    * [A Guide to Claims-Based Identity and Access Control, Second Edition - Book Download](https://www.microsoft.com/en-us/download/details.aspx?id=28362)
-    * [Azure Identity Management and access control security best practices](https://docs.microsoft.com/en-us/azure/security/azure-security-identity-management-best-practices)
+    * ~~[Claims-based Authorization](https://docs.microsoft.com/en-us/dotnet/framework/security/claims-based-authorization-using-wif#claims-based-authorization)~~
+    * ~~[A Guide to Claims-Based Identity and Access Control, Second Edition - Book Download](https://www.microsoft.com/en-us/download/details.aspx?id=28362); didn't read~~
+    * ~~[Azure Identity Management and access control security best practices](https://docs.microsoft.com/en-us/azure/security/azure-security-identity-management-best-practices)~~
 * Implement RBAC (Role-Based Access Control) authorization
     * [Understand role definitions for Azure resources](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-definitions)
     * [What is role-based access control (RBAC) for Azure resources?](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
