@@ -35,7 +35,7 @@
     * ~~[Create an Azure notification hub in the Azure portal](https://docs.microsoft.com/en-us/azure/notification-hubs/create-notification-hub-portal)~~
     * ~~[Set up push notifications in a notification hub in the Azure portal](https://docs.microsoft.com/en-us/azure/notification-hubs/configure-notification-hub-portal-pns-settings)~~
     * ~~`Review all the How-to guides`~~
-* Implement solutions that use Azure Event Hub
+* ~~Implement solutions that use Azure Event Hub~~
     * ~~[Create an event hub using Azure portal](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-portal)~~
     * ~~[Create an event hub using Azure PowerShell](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-powershell)~~
     * ~~[Create an event hub using Azure Resource Manager template](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-resource-manager-namespace-event-hub)~~
