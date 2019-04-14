@@ -1,17 +1,17 @@
 # Connect to and Consume Azure Services and Third-party Services (20-25%)
 ## Develop an App Service Logic App 
-* Create a Logic App
-    * [Quickstart: Create your first automated workflow with Azure Logic Apps - Azure portal](https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow)
-    * [Quickstart: Create and manage automated logic app workflows - Visual Studio Code](https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-visual-studio-code)
-* [Create a custom connector for Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/custom-connector-overview)
-* [Create a custom template for Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template)
+* ~~Create a Logic App~~
+    * ~~[Quickstart: Create your first automated workflow with Azure Logic Apps - Azure portal](https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow)~~
+    * ~~[Quickstart: Create and manage automated logic app workflows - Visual Studio Code](https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-visual-studio-code)~~
+* ~~[Create a custom connector for Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/custom-connector-overview)~~
+* ~~[Create a custom template for Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template)~~
 ## Integrate Azure Search within solutions 
-* Create an Azure Search index 
-    * [Create an Azure Search service in the portal](https://docs.microsoft.com/en-us/azure/search/search-create-service-portal)
-    * [Quickstart: 1 - Create an Azure Search index in C#](https://docs.microsoft.com/en-us/azure/search/search-create-index-dotnet)
-* Import searchable data
-    * [Import data wizard for Azure Search](https://docs.microsoft.com/en-us/azure/search/search-import-data-portal)
-    * [Data import overview - Azure Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-data-import)
+* ~~Create an Azure Search index~~
+    * ~~[Create an Azure Search service in the portal](https://docs.microsoft.com/en-us/azure/search/search-create-service-portal)~~
+    * ~~[Quickstart: 1 - Create an Azure Search index in C#](https://docs.microsoft.com/en-us/azure/search/search-create-index-dotnet)~~
+* ~~Import searchable data~~
+    * ~~[Import data wizard for Azure Search](https://docs.microsoft.com/en-us/azure/search/search-import-data-portal)~~
+    * ~~[Data import overview - Azure Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-data-import)~~
 * Query the Azure Search index 
     * [How to compose a query in Azure Search](https://docs.microsoft.com/en-us/azure/search/search-query-overview)
     * [Lucene query syntax in Azure Search](https://docs.microsoft.com/en-us/azure/search/query-lucene-syntax)
