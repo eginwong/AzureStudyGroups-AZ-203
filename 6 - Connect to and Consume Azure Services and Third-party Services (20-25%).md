@@ -12,9 +12,9 @@
 * ~~Import searchable data~~
     * ~~[Import data wizard for Azure Search](https://docs.microsoft.com/en-us/azure/search/search-import-data-portal)~~
     * ~~[Data import overview - Azure Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-data-import)~~
-* Query the Azure Search index 
-    * [How to compose a query in Azure Search](https://docs.microsoft.com/en-us/azure/search/search-query-overview)
-    * [Lucene query syntax in Azure Search](https://docs.microsoft.com/en-us/azure/search/query-lucene-syntax)
+* ~~Query the Azure Search index~~
+    * ~~[How to compose a query in Azure Search](https://docs.microsoft.com/en-us/azure/search/search-query-overview)~~
+    * ~~[Lucene query syntax in Azure Search](https://docs.microsoft.com/en-us/azure/search/query-lucene-syntax)~~
 ## Establish API Gateways 
 * Create an APIM instance
     * [Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance)
@@ -41,9 +41,9 @@
     * [Create an event hub using Azure Resource Manager template](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-resource-manager-namespace-event-hub)
      * `Review all the How-to guides`
 ## Develop message-based solutions 
-* Implement solutions that use Azure Service Bus
-    * Complete several [Quickstarts](https://docs.microsoft.com/en-us/azure/service-bus-messaging/)
-    * `Review all the How-to guides`
-* Implement solutions that use Azure Queue Storage queues
-    * Complete several versions of [Creating a storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?toc=%2Fazure%2Fstorage%2Fqueues%2Ftoc.json&tabs=azure-portal)
-     * `Review all the How-to guides`
+* ~~Implement solutions that use Azure Service Bus~~
+    * ~~Complete several [Quickstarts](https://docs.microsoft.com/en-us/azure/service-bus-messaging/)~~
+    * ~~`Review all the How-to guides`~~
+* ~~Implement solutions that use Azure Queue Storage queues~~
+    * ~~Complete several versions of [Creating a storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?toc=%2Fazure%2Fstorage%2Fqueues%2Ftoc.json&tabs=azure-portal)~~
+     * ~~`Review all the How-to guides`~~
