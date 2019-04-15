@@ -1,20 +1,20 @@
 # Develop for Azure storage (15-20%)
  
 ## Develop solutions that use storage tables 
-You may want to consider reading [Azure Storage Table Design Guide: Designing Scalable and Performant Tables](https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-design-guide )
+~~You may want to consider reading [Azure Storage Table Design Guide: Designing Scalable and Performant Tables](https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-design-guide)~~
 * Design and implement policies for tables
 * Query table storage by using code
     * [Perform Azure Table storage operations with Azure PowerShell](https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-how-to-use-powershell)
 * [Implement partitioning schemes](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning)
 
 ## Develop solutions that use Cosmos DB storage 
-* [Create, read, update, and delete data by using appropriate APIs](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-200.2+2018_T3/info)
-* Implement partitioning schemes
-    * https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview
-    * https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-200.2+2018_T3/info
-* Set the appropriate consistency level for operations
-    * https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels 
-    * https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels-choosing
+* ~~[Create, read, update, and delete data by using appropriate APIs](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-200.2+2018_T3/info)~~
+* ~~Implement partitioning schemes~~
+    * ~~https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview~~
+    * ~~https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-200.2+2018_T3/info~~
+* ~~Set the appropriate consistency level for operations~~
+    * ~~https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels~~
+    * ~~https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels-choosing~~
 
 ## Develop solutions that use a relational database 
 * Provision and configure relational databases
