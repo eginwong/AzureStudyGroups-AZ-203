@@ -8,16 +8,16 @@
 * ~~[Enable diagnostics logging](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)~~
 
 ## Create Azure App Service mobile apps 
-* [About Mobile Apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-value-prop)
-* Add push notifications for mobile apps
-    * [Add push notifications to your Android app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-push)
-    * [Add Push Notifications to your iOS App](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-push)
-* Enable offline sync for mobile app
-    * [Enable offline sync for your Android mobile app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-offline-data)
-    * [Enable offline syncing with iOS mobile apps](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-offline-data)
-* Implement a remote instrumentation strategy for mobile devices
-    * [Enable diagnostics logging for apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)
-    * [Troubleshoot an app in Azure App Service using Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-visual-studio?toc=%2fazure%2fapp-service-mobile%2ftoc.json)
+* ~~[About Mobile Apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-value-prop)~~
+* ~~Add push notifications for mobile apps~~
+    * ~~[Add push notifications to your Android app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-push)~~
+    * ~~[Add Push Notifications to your iOS App](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-push)~~
+* ~~Enable offline sync for mobile app~~
+    * ~~[Enable offline sync for your Android mobile app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-offline-data)~~
+    * ~~[Enable offline syncing with iOS mobile apps](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-offline-data)~~
+* ~~Implement a remote instrumentation strategy for mobile devices~~
+    * ~~[Enable diagnostics logging for apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)~~
+    * ~~[Troubleshoot an app in Azure App Service using Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-visual-studio?toc=%2fazure%2fapp-service-mobile%2ftoc.json)~~
 
 ## Create Azure App Service API apps 
 * Create an Azure App Service API app
