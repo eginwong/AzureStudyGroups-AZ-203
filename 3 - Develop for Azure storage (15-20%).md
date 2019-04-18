@@ -25,13 +25,13 @@
 * ~~[Create, read, update, and delete data tables by using code](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-200.2+2018_T3/info)~~
 
 ## Develop solutions that use blob storage 
-Move items in blob storage between storage accounts or containers 
-Set and retrieve properties and metadata
-* Implement blob leasing
-    * https://docs.microsoft.com/en-us/rest/api/storageservices/lease-blob 
-    * https://azure.microsoft.com/en-us/updates/support-for-blob-storage-lease-management-from-azure-portal/
-* Implement data archiving and retention
-    * https://docs.microsoft.com/en-us/azure/storage/blobs/storage-lifecycle-management-concepts
-    * https://docs.microsoft.com/en-us/azure/storage/blobstorage-blob-immutable-storage#getting-started
+~~Move items in blob storage between storage accounts or containers~~
+~~Set and retrieve properties and metadata~~
+* ~~Implement blob leasing~~
+    * ~~https://docs.microsoft.com/en-us/rest/api/storageservices/lease-blob~~
+    * ~~https://azure.microsoft.com/en-us/updates/support-for-blob-storage-lease-management-from-azure-portal/~~
+* ~~Implement data archiving and retention~~
+    * ~~https://docs.microsoft.com/en-us/azure/storage/blobs/storage-lifecycle-management-concepts~~
+    * ~~https://docs.microsoft.com/en-us/azure/storage/blobstorage-blob-immutable-storage#getting-started~~
 
     
