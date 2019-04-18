@@ -20,12 +20,12 @@
     * ~~[Troubleshoot an app in Azure App Service using Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-visual-studio?toc=%2fazure%2fapp-service-mobile%2ftoc.json)~~
 
 ## Create Azure App Service API apps 
-* Create an Azure App Service API app
-    * [Import and publish your first API](https://docs.microsoft.com/en-us/azure/api-management/import-and-publish)
-    * [Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance)
-* Create documentation for the API by using open source and other tools
-    * [Modify the content and layout of pages on the developer portal in Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-modify-content-layout)
-    * [Customize the style of the Developer portal pages](https://docs.microsoft.com/en-us/azure/api-management/api-management-customize-styles)
+* ~~Create an Azure App Service API app~~
+    * ~~[Import and publish your first API](https://docs.microsoft.com/en-us/azure/api-management/import-and-publish)~~
+    * ~~[Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance)~~
+* ~~Create documentation for the API by using open source and other tools~~
+    * ~~[Modify the content and layout of pages on the developer portal in Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-modify-content-layout)~~
+    * ~~[Customize the style of the Developer portal pages](https://docs.microsoft.com/en-us/azure/api-management/api-management-customize-styles)~~
 ## Implement Azure functions 
 * [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 * Implement input and output bindings for a function
